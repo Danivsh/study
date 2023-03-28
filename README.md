@@ -1,1 +1,1 @@
-# repository of my studies
+# Repository of my studies
